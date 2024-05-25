@@ -45,14 +45,14 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>release</id>
-			<name>release</name>
-			<url>http://52.3.248.239:8081/repository/release/</url>
+			<id>coit-release</id>
+			<name>coit-release</name>
+			<url>http://54.90.49.220:8081/repository/coit-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapsot</id>
-			<name>snapsot</name>
-			<url>http://52.3.248.239:8081/repository/snapsot/</url>
+			<id>coit-snapshot</id>
+			<name>coit-snapshot</name>
+			<url>http://54.90.49.220:8081/repository/coit-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
